@@ -1,0 +1,201 @@
+rank,id,title,rating_count
+1,363185,Fight Club,234656
+2,445539,Pulp Fiction,218107
+3,388583,Interstellar,112192
+4,475251,2001 : L'Odyssée de l'espace,54554
+5,494050,Blade Runner,61393
+6,408443,Le Parrain,62990
+7,408277,Forrest Gump,144046
+8,481351,Le Seigneur des Anneaux - Le Retour du roi,103951
+9,419456,The Dark Knight - Le Chevalier noir,116896
+10,368376,"Le Bon, la Brute et le Truand",50952
+11,471143,Inception,210355
+12,387452,Le Seigneur des Anneaux - La Communauté de l'anneau,121968
+13,488421,Apocalypse Now,51911
+14,373525,Orange mécanique,83321
+15,376627,Princesse Mononoké,76322
+16,433183,Eternal Sunshine of the Spotless Mind,70180
+17,411899,Mulholland Drive,44776
+18,444625,Old Boy,56496
+19,1367079,Le Voyage de Chihiro,89883
+20,442615,L'Empire contre-attaque,74842
+21,382239,Matrix,117795
+22,370300,Retour vers le futur,97152
+23,370894,Douze Hommes en colère,47544
+24,804173,Il était une fois en Amérique,28060
+25,447958,Vol au-dessus d'un nid de coucou,61512
+26,393373,Shining,103757
+27,430683,Gladiator,74261
+28,440893,Il était une fois dans l'Ouest,38371
+29,459080,Seven,103943
+30,477776,Into the Wild,75667
+31,447001,Les Affranchis,49644
+32,390938,Drive,86597
+33,414626,Les Évadés,54803
+34,454350,The Big Lebowski,69127
+35,435660,Alien - Le 8ème Passager,59638
+36,372138,La Ligne verte,83306
+37,432630,Django Unchained,143504
+38,497324,Barry Lyndon,30762
+39,399294,American Beauty,62068
+40,430335,Reservoir Dogs,74595
+41,405140,Shutter Island,132964
+42,11103037,Mommy,48283
+43,471803,Le Seigneur des Anneaux - Les Deux Tours,85379
+44,369619,Kill Bill - Volume 1,114602
+45,494347,Jurassic Park,79049
+46,467266,Taxi Driver,54468
+47,480573,Donnie Darko,43289
+48,466346,Requiem for a Dream,75844
+49,390881,Usual Suspects,58932
+50,392288,American History X,63144
+51,397129,Brazil,28302
+52,1316195,V pour Vendetta,65581
+53,422876,La Liste de Schindler,54001
+54,365132,La Guerre des étoiles,72441
+55,11913569,La La Land,57215
+56,406497,Le Fabuleux Destin d'Amélie Poulain,84497
+57,388285,Inglourious Basterds,173741
+58,481959,Edward aux mains d'argent,76903
+59,372017,La vie est belle,55388
+60,378011,Snatch - Tu braques ou tu raques,55951
+61,378648,Le Parrain - 2e Partie,37612
+62,415454,The Truman Show,87170
+63,414447,Titanic,111621
+64,472876,Lost in Translation,51582
+65,1301677,Her,72510
+66,486492,Le Tombeau des lucioles,55391
+67,389355,Mr. Nobody,33445
+68,493753,Big Fish,55793
+69,488559,Bienvenue à Gattaca,49901
+70,484187,Le Prestige,57136
+71,473176,Memento,53646
+72,493364,Gran Torino,75844
+73,10777058,Whiplash,66431
+74,455599,Le Château ambulant,56181
+75,451324,Les Sept Samouraïs,17638
+76,719994,Stalker,10980
+77,376439,Voyage au bout de l'enfer,22614
+78,409839,Monty Python - Sacré Graal !,44497
+79,443200,Sueurs froides,27187
+80,480435,Mad Max - Fury Road,74081
+81,497643,The Grand Budapest Hotel,75593
+82,363161,Le Cercle des poètes disparus,52843
+83,493747,Le Roi Lion,75540
+84,380343,Le Silence des agneaux,68275
+85,495890,Léon,72764
+86,481802,Psychose,48155
+87,395690,La Cité de la peur,69642
+88,442591,Full Metal Jacket,61223
+89,448558,The Thing,31595
+90,492468,Terminator 2 - Le Jugement dernier,42252
+91,466023,Heat,33150
+92,1324648,Trainspotting,51396
+93,482589,Les Fils de l'homme,39304
+94,377216,La Ligne rouge,21674
+95,472094,La Haine,55105
+96,421236,Cloud Atlas,38620
+97,435721,Black Swan,75412
+98,381184,The Tree of Life,27272
+99,391814,L'Armée des 12 singes,47438
+100,453901,Memories of Murder,26541
+1,388583,Interstellar,3810
+2,471143,Inception,3524
+3,432630,Django Unchained,3512
+4,390938,Drive,3484
+5,480435,Mad Max - Fury Road,3461
+6,420119,Gravity,3353
+7,27059297,Joker,3317
+8,363185,Fight Club,3274
+9,8194088,Star Wars - Le Réveil de la Force,3253
+10,10777058,Whiplash,3238
+11,1301677,Her,3232
+12,9375203,Gone Girl,3200
+13,11913569,La La Land,3161
+14,370894,Douze Hommes en colère,3157
+15,371239,Avatar,3155
+16,11166540,The Revenant,3150
+17,435721,Black Swan,3128
+18,445539,Pulp Fiction,3119
+19,419456,The Dark Knight - Le Chevalier noir,3082
+20,25357970,Parasite,3058
+21,427132,The Dark Knight Rises,3040
+22,495281,Le Loup de Wall Street,3035
+23,10750147,Les 8 Salopards,3028
+24,393373,Shining,3005
+25,475251,2001 : L'Odyssée de l'espace,2998
+26,497643,The Grand Budapest Hotel,2993
+27,380733,Skyfall,2992
+28,11134569,Premier Contact,2982
+29,494050,Blade Runner,2965
+30,405140,Shutter Island,2953
+31,11103037,Mommy,2951
+32,486492,Le Tombeau des lucioles,2944
+33,376627,Princesse Mononoké,2933
+34,1367079,Le Voyage de Chihiro,2931
+35,388285,Inglourious Basterds,2921
+36,435660,Alien - Le 8ème Passager,2919
+37,467317,Le Hobbit - Un voyage inattendu,2918
+38,8463636,Birdman,2914
+39,460131,Intouchables,2907
+40,406937,Les Gardiens de la galaxie,2901
+41,7938578,Blade Runner 2049,2897
+42,368376,"Le Bon, la Brute et le Truand",2889
+43,459080,Seven,2884
+44,408443,Le Parrain,2876
+45,474891,Vice-versa,2871
+46,444625,Old Boy,2869
+47,35286461,1917,2867
+48,440893,Il était une fois dans l'Ouest,2862
+49,382239,Matrix,2851
+50,8269229,Prisoners,2848
+51,394207,The Social Network,2846
+52,408277,Forrest Gump,2845
+53,26144468,Once Upon a Time... in Hollywood,2842
+54,488421,Apocalypse Now,2841
+55,373525,Orange mécanique,2831
+56,447958,Vol au-dessus d'un nid de coucou,2827
+57,24698928,Dune,2822
+58,493660,Avengers,2822
+59,421236,Cloud Atlas,2821
+60,17103116,Dunkerque,2821
+61,8277476,Star Wars - Les Derniers Jedi,2818
+62,13489086,Ready Player One,2803
+63,387452,Le Seigneur des Anneaux - La Communauté de l'anneau,2803
+64,481802,Psychose,2799
+65,804173,Il était une fois en Amérique,2798
+66,433183,Eternal Sunshine of the Spotless Mind,2796
+67,473747,Pacific Rim,2795
+68,484219,Moonrise Kingdom,2792
+69,11361642,Rogue One - A Star Wars Story,2789
+70,368734,Scott Pilgrim,2779
+71,372529,Le Discours d'un roi,2758
+72,411899,Mulholland Drive,2757
+73,370300,Retour vers le futur,2754
+74,8467708,Kingsman - Services secrets,2754
+75,466346,Requiem for a Dream,2751
+76,481351,Le Seigneur des Anneaux - Le Retour du roi,2749
+77,430335,Reservoir Dogs,2748
+78,11082226,Logan,2744
+79,479385,Polisse,2739
+80,451324,Les Sept Samouraïs,2738
+81,442615,L'Empire contre-attaque,2734
+82,448558,The Thing,2731
+83,10536888,Night Call,2724
+84,447001,Les Affranchis,2719
+85,454350,The Big Lebowski,2715
+86,415454,The Truman Show,2714
+87,14954623,Spider-Man - New Generation,2712
+88,376439,Voyage au bout de l'enfer,2710
+89,467266,Taxi Driver,2710
+90,23227814,3 Billboards - Les Panneaux de la vengeance,2710
+91,494347,Jurassic Park,2710
+92,493364,Gran Torino,2709
+93,9008787,Avengers : Infinity War,2708
+94,472537,Coco,2708
+95,414626,Les Évadés,2706
+96,497324,Barry Lyndon,2705
+97,362143,Deadpool,2704
+98,402567,Prometheus,2703
+99,453901,Memories of Murder,2698
+100,397793,Dallas Buyers Club,2697
